@@ -55,7 +55,7 @@
     }
   ],
   "scripts": ["module/lib/dd.min.js", "module/lib/jquery.sumoselect.min.js"],
-  "esmodules": ["conditional-visibility.js"],
+  "esmodules": ["conditional-visibility.ts"],
   "styles": ["styles/conditional-visibility.css", "styles/dd.css", "styles/sumoselect.css"],
   "packs": [
     {
