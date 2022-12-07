@@ -52,11 +52,6 @@
       "lang": "en",
       "name": "English",
       "path": "lang/en.json"
-    },
-    {
-      "lang": "ko",
-      "name": "Korean",
-      "path": "lang/ko.json"
     }
   ],
   "scripts": ["module/lib/dd.min.js", "module/lib/jquery.sumoselect.min.js"],
